@@ -22,20 +22,14 @@ List Of Our App Feature Have
 - Timer for timed typing sessions
 - User-friendly interface
 
-## Installation
 
-
-
-1. Clone the repository: (git clone https://github.com/aakarshpatel84/chabbi-typing-app.git)
-2. Navigate to the project directory:
-3. Install the dependencies: (yarn install)
 
 ## Usage
 
-First Clone repo then open your terminal go to the path of chabbi-typing-app then use these command given below
+First Clone repo then open your terminal go to the path of chabbi-assign-typing then use these command given below
 
 1. Start the development server: (yarn start)
-2. Open your browser and visit `http://localhost:3000` to access the chabbi-typing-app.
+2. Open your browser and visit `http://localhost:3000` to access the chabbi-assign-typing.
 
 
 
